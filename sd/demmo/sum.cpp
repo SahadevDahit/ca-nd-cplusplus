@@ -1,0 +1,16 @@
+namespace one{
+
+void display()
+{
+
+  /*  int a,b;
+    cout<<"Enter the first no:";
+    cin>>a;
+    cout<<"Enter the second no:";
+    cin>>b;
+    cout<<"sum of the given no is "<<a+b<<endl;
+       */
+       cout<<"Hello hunk killer"<<endl;
+
+}
+}

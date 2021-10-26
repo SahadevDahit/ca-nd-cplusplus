@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556560641 source:c:\users\dell\desktop\sd\example\easy.cpp
+	<conio.h>
+	<graphics.h>
+
